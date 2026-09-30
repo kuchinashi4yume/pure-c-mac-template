@@ -1,4 +1,4 @@
-# pure-c-template
+# pure-c-mac-template
 - **OS: macOS**
 
 ## How to create pure-c project
